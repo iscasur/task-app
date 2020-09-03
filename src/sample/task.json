@@ -15,6 +15,6 @@
 		"id": 2,
 		"title": "Actualizar contribuyentes",
 		"description": "Obtener el reporte de opinión para tener al día su cumplimiento",
-		"done": false
+		"done": true
 	}
 ]
